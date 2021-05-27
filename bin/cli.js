@@ -1,5 +1,4 @@
 #! /usr/bin/env node
-console.log('myvue2 working~');
 
 const program=require('commander');
 const figlet=require('figlet');
